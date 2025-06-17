@@ -412,6 +412,9 @@ input{
         display: flex;
         flex-direction: column;
     }
+    .form-text7 img{
+        width: 100%;
+    }
     .form-text9{
         display: flex;
         flex-direction: column;
